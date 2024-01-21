@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32bb3ad7-c809-4220-bffa-81fb8ab46e47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/hexlet/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hexlet/Application.java" afterDir="false" />
     </list>
@@ -43,6 +41,26 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.Application" />
+      <module name="hexlet-jdbc.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1705593325298</updated>
       <workItem from="1705593328251" duration="2694000" />
-      <workItem from="1705755836014" duration="658000" />
+      <workItem from="1705755836014" duration="4138000" />
+      <workItem from="1705777942960" duration="2685000" />
+      <workItem from="1705851905488" duration="805000" />
+      <workItem from="1705855808698" duration="403000" />
     </task>
     <servers />
   </component>
